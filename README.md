@@ -43,7 +43,7 @@
 
 本附件是可编辑的项目 3MF，不是供所有打印机直接执行的通用 G-code。
 
-## 来源与致谢
+### 来源与致谢
 
 原作者：**表哥staydance**。
 
@@ -51,6 +51,29 @@
 
 - [人物分件配置](https://makerworld.com.cn/zh/models/3037496-re-cong-ling-kai-shi-de-yi-shi-jie-sheng-huo-la-mu?from=search#profileId-3570459)
 - [增加磁吸接口的相框配置](https://makerworld.com.cn/zh/models/3037496-re-cong-ling-kai-shi-de-yi-shi-jie-sheng-huo-la-mu?from=search#profileId-3571177)
+
+## M9 刺刀模型 · A1 mini 适配版 V3
+
+这是我基于两个来源模型整理的个人打印适配版本，改进集中在 A1 mini 排盘、支撑设置与组件命名。
+
+### 下载
+
+前往 [M9 V3 Release](https://github.com/w0fv1/3D/releases/tag/M9-V3)，下载 **`M9_V3.3mf`**。
+
+### 本次改进
+
+- 保留来源模型的尺寸，将刀身在打印板平面内旋转约 45°，利用对角线空间适配 A1 mini。
+- 握柄、护手和刀身集中到同一个打印盘，仍保持三个独立组件。
+- 组件命名为「01 握柄」「02 护手」「03 刀身」，打印盘命名为「M9刺刀」。
+- 为刀身启用支撑，并完成切片检查。
+- 配置为 A1 mini、0.4 mm 喷嘴、白色 PLA、0.2 mm 层高。
+
+切片估算约 **2 小时 37 分钟、58 克耗材**。曾发起试打印；本次发布未核实成品与装配结果。请按自己的耗材和打印板核对配置后重新切片。
+
+### 来源与致谢
+
+- user_3387472423：[M9刺刀匕首](https://makerworld.com.cn/zh/models/643698-m9ci-dao-bi-shou)
+- 紫杉白岳：[M9](https://makerworld.com.cn/zh/models/951716-m9)
 
 ## 格式与命名
 
