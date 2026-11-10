@@ -43,7 +43,7 @@
 
 本附件是可编辑的项目 3MF，不是供所有打印机直接执行的通用 G-code。
 
-## 来源与权利说明
+## 来源与致谢
 
 原作者：**表哥staydance**。
 
@@ -51,10 +51,6 @@
 
 - [人物分件配置](https://makerworld.com.cn/zh/models/3037496-re-cong-ling-kai-shi-de-yi-shi-jie-sheng-huo-la-mu?from=search#profileId-3570459)
 - [增加磁吸接口的相框配置](https://makerworld.com.cn/zh/models/3037496-re-cong-ling-kai-shi-de-yi-shi-jie-sheng-huo-la-mu?from=search#profileId-3571177)
-
-原文件标注 **Standard Digital File License**，并附有仅限个人非商业用途、禁止未经许可再次上传或分发的声明；原作者也说明该作品是未获原 IP 官方授权的粉丝创作。本仓库的“个人改进”说明不表示拥有原模型或原 IP 的版权，也不构成额外的商业使用、再分发或衍生作品授权。使用和传播须遵守相关权利人的许可。
-
-本仓库没有为这些第三方模型追加 MIT、CC0 等开源许可证。
 
 ## 格式与命名
 
